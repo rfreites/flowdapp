@@ -17,11 +17,11 @@
 
 # FLOW dApp
 
-Agile kanban boards for distributed organizations.
+Agile kanban boards with crypto incentives.
 
-DAC Kanban leverages all the power of EOSIO blockchains to deliver real-time transactions with zero transactions fees.
+Flow leverages all the power of EOSIO blockchains to deliver real-time transactions with zero transactions fees.
 
-DAC Kanban allows you to get things done faster and get rewarded as things get done.
+Flow allows you to get things done faster and get rewarded as things get done.
 
 ## What is Kanban ?
 
